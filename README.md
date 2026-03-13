@@ -6,7 +6,6 @@ This project adds a small set of **house rules, procedures, and tables** that al
 
 The goal is to keep the system **fast, procedural, and interpretation-driven**, using existing tools whenever possible.
 
-—
 
 ## Required Tools
 
@@ -20,7 +19,6 @@ Optional:
 
 - [ICRPG Target Cards](https://www.drivethrurpg.com/en/product/290540/icrpg-target-cards-pl-en)
 
-—
 
 ## Repository Structure
 
@@ -52,13 +50,11 @@ All random tables used by the system.
 
 Tables are formatted for easy entry into **PUM Companion**.
 
-—
 
 ## Current Genre
 
 Fantasy (in development)
 
-—
 
 ## Future Genres
 
@@ -71,7 +67,6 @@ The same framework will eventually support multiple genres, including:
 
 Each genre will reuse most core procedures but include **genre-specific tables and adjustments**.
 
-—
 
 ## Status
 
