@@ -32,7 +32,7 @@ Modifier results
 
 Stats
 
-STR
+STR  
 DEX
 CON
 INT
