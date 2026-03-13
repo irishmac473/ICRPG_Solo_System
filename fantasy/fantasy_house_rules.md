@@ -1,5 +1,4 @@
 # FANTASY HOUSE RULES — ICRPG SOLO SYSTEM
-—
 
 System Tools
 
@@ -12,7 +11,6 @@ Hex Scale: 6 miles
 Dungeon Turn: 10 minutes
 
 # LEVEL 0 CHARACTERS
-—
 
 Level-0 characters represent ordinary people before becoming adventurers.
 
@@ -77,7 +75,6 @@ When a Level-0 character earns their first Milestone they become Level-1.
 Choose a class and follow normal ICRPG advancement rules.
 
 # HERO COINS
-—
 
 Each PC begins every session with **1 Hero Coin**.
 
@@ -98,7 +95,6 @@ Defeating a boss enemy
 Major story development
 
 # EQUIPMENT AND LOAD
-—
 
 Items are divided into **Equipped Items** and **Packed Items**.
 
@@ -154,7 +150,6 @@ Heavy item → 3 slots
 Very heavy item → 4+ slots
 
 # CAROUSING
-—
 
 A character may carouse in a settlement.
 
@@ -165,7 +160,6 @@ Gain +1 to the roll for every additional 10 Coin spent.
 Roll on **Carousing Table**.
 
 # NPC GENERATION
-—
 
 Use this procedure whenever the PCs interact with an unknown person.
 
@@ -203,7 +197,6 @@ Strong weapon
 May command allies
 
 # MONSTER CREATION
-—
 
 Create monsters using **ICRPG monster creation rules**.
 
@@ -215,6 +208,5 @@ Elite creature → 3 Hearts
 Boss creature → 4–6 Hearts
 
 # LAST STAND
-—
 
 When the party is defeated roll on **Last Stand Table**.

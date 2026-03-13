@@ -1,5 +1,4 @@
 # FANTASY SOLO PROCEDURES — ICRPG SOLO SYSTEM
-—
 
 System Tools
 
@@ -12,7 +11,6 @@ Hex Scale: 6 miles
 Dungeon Turn: 10 minutes
 
 # SCENE PROCEDURE
-—
 
 Scenes represent encounters, conversations, delving rooms, new hexes, or major events.
 
@@ -25,7 +23,6 @@ Draw GMA Oracle Card
 Resolve scene
 
 # DELVING PROCEDURE
-—
 
 Each room in a dungeon or ruin is treated as a scene.
 
@@ -125,7 +122,6 @@ Resolve encounters using normal ICRPG rules.
 After resolving the room roll on **Dungeon Progression Table**.
 
 # TRAVEL PROCEDURE
-—
 
 Travel occurs in daily cycles.
 
@@ -151,7 +147,6 @@ Resolve encounters
 Continue travel
 
 # WEATHER PROCEDURE
-—
 
 Determine starting weather using seasonal weather table.
 
@@ -165,7 +160,6 @@ Improve one step
 Shift dramatically
 
 # NAVIGATION
-—
 
 Choose the PC with the highest INT or WIS.
 
@@ -178,7 +172,6 @@ If lost
 Travel continues but direction is unknown until navigation succeeds.
 
 # SCOUTING
-—
 
 A character may scout from elevated terrain.
 
@@ -197,7 +190,6 @@ Failure
 Roll on **Scouting Failure Table**.
 
 # TERRAIN GENERATION
-—
 
 When entering unexplored hex
 
@@ -206,7 +198,6 @@ Roll on **Terrain Region Table**.
 Future hexes follow the matching **Terrain Continuity Table**.
 
 # LANDMARK CHECK
-—
 
 Landmarks may be discovered during travel or scouting.
 
@@ -215,7 +206,6 @@ Roll on **Landmark Table**.
 Landmarks may introduce new locations or story threads.
 
 # CAMPING
-—
 
 Determine area danger level.
 
@@ -226,7 +216,6 @@ Borderland Camp Table
 Dangerous Camp Table
 
 # HUNTING AND FORAGING
-—
 
 Consumes one travel segment.
 

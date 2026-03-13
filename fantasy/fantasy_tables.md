@@ -1,5 +1,4 @@
 # FANTASY TABLES — ICRPG SOLO SYSTEM
-—-
 
 ## Carousing Table
 
@@ -26,8 +25,6 @@ Milestone and valuable rumor (::result::)
 Milestone and powerful ally (::result::)
 Legendary night — Milestone, party hero coin, powerful ally, major opportunity (::result::)
 
-—
-
 ## NPC Attitude Table
 
 d12
@@ -39,8 +36,6 @@ d12
 11|Friendly (::result::)
 12|Helpful (::result::)
 
-—
-
 ## NPC Power Table
 
 d12
@@ -49,8 +44,6 @@ d12
 10|Standard (::result::)
 12|Elite (::result::)
 
-—
-
 ## Navigation Failure Table
 
 d6
@@ -58,8 +51,6 @@ d6
 3|Drift into adjacent hex (::result::)
 5|Travel one segment wrong direction (::result::)
 6|Become lost (::result::)
-
-—
 
 ## Scouting Failure Table
 
@@ -76,8 +67,6 @@ d12
 11|Minor accident while scouting (::result::)
 12|Immediate encounter (::result::)
 
-—
-
 ## Terrain Region Table
 
 d12
@@ -92,8 +81,6 @@ d12
 11|Badlands (::result::)
 12|Strange terrain (::result::)
 
-—
-
 ## Plains Continuity Table
 
 d12
@@ -105,8 +92,6 @@ d12
 11|Marsh (::result::)
 12|Strange terrain (::result::)
 
-—
-
 ## Forest Continuity Table
 
 d12
@@ -117,8 +102,6 @@ d12
 10|Swamp (::result::)
 11|River valley (::result::)
 12|Ancient forest (::result::)
-
-—
 
 ## Hills Continuity Table
 
@@ -133,8 +116,6 @@ d12
 11|Cliffs (::result::)
 12|Ruined region (::result::)
 
-—
-
 ## Mountains Continuity Table
 
 d12
@@ -146,8 +127,6 @@ d12
 10|Glacier (::result::)
 11|Canyon (::result::)
 12|Volcanic terrain (::result::)
-
-—
 
 ## Swamp Continuity Table
 
@@ -161,8 +140,6 @@ d12
 11|Ruined swamp town (::result::)
 12|Magical swamp (::result::)
 
-—
-
 ## Road Continuation Table
 
 d12
@@ -173,8 +150,6 @@ d12
 10|Settlement connection (::result::)
 11|Bridge (::result::)
 12|Road ends (::result::)
-
-—
 
 ## River Continuation Table
 
@@ -188,8 +163,6 @@ d12
 11|Waterfall (::result::)
 12|Delta (::result::)
 
-—
-
 ## Landmark Table
 
 d12
@@ -199,8 +172,6 @@ d12
 11|Major landmark (::result::)
 12|Strange landmark (::result::)
 
-—
-
 ## Safe Camp Table
 
 d12
@@ -208,8 +179,6 @@ d12
 10|Quiet night (::result::)
 11|Distant activity (::result::)
 12|Minor event (::result::)
-
-—
 
 ## Borderland Camp Table
 
@@ -221,8 +190,6 @@ d12
 11|Encounter (::result::)
 12|Danger (::result::)
 
-—
-
 ## Dangerous Camp Table
 
 d12
@@ -233,8 +200,6 @@ d12
 10|Encounter (::result::)
 11|Ambush (::result::)
 12|Major danger (::result::)
-
-—
 
 ## Hunting Game Table
 
@@ -248,8 +213,6 @@ d12
 10|Herd animal (6 rations) (::result::)
 11|Exceptional hunt (8 rations) (::result::)
 12|Exceptional hunt (10 rations) (::result::)
-
-—
 
 ## Last Stand Table
 
