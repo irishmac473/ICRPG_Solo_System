@@ -24,19 +24,19 @@ Roll 3d6 for each stat.
 
 Modifier results
 
-3 → −2
-4–6 → −1
-7–13 → 0
-14–17 → +1
-18 → +2
+3 → −2  
+4–6 → −1  
+7–13 → 0  
+14–17 → +1  
+18 → +2  
 
 Stats
 
 STR  
-DEX
-CON
-INT
-WIS
+DEX  
+CON  
+INT  
+WIS  
 CHA
 
 ## Level-0 Hit Points
